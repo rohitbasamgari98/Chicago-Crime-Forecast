@@ -1,6 +1,4 @@
-# Data__Science
-
-Chicago_Crime_forecast
+Chicago Crime Forecast
 
 Chicago being one of the most popular cities over, the years the criminal activity in such a prominent city has to be analyzed to predict when a crime will be committed.
 
